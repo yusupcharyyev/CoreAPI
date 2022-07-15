@@ -1,3 +1,3 @@
 # CoreAPI
 Core API with swagger support                                                                                                       
-Note: used FAKEDATA instead of database
+Note: used Bogus library instead of database
